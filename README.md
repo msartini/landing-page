@@ -1,4 +1,5 @@
 # Simple NextJS Quick Start
+> Márcio Sartini
 
 A simple project starter to work with React, NextJS and Styled Components
 
